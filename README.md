@@ -1,2 +1,2 @@
 # FastAPI-PhishShark
-REST API for project called PhishShark
+REST API to check websites
